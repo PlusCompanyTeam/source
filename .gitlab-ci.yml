@@ -1,0 +1,4 @@
+include:
+  - project: "pluscompanyteam/infra/ci-config"
+    ref: "main"
+    file: "/backend/sources.yml"
