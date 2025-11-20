@@ -1,1 +1,5 @@
-{"config_sources":["https://config-manager.plusteam.dev/config"]}
+{
+  "mainUrl": "aHR0cHM6Ly9zaGFoLmJldC9mYQ==",
+  "baseUrl": "aHR0cHM6Ly9tb2JpbGUtYXNzaXN0YW50LnBsdXN0ZWFtLmRldi9hcGkvdjEv",
+  "configBaseUrl": "aHR0cHM6Ly9jb25maWctbWFuYWdlci5wbHVzdGVhbS5kZXYv"
+}
